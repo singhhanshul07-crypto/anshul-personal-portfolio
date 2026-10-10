@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+*.tsbuildinfo
+.env*
+!.env.example
+.chrome-check-profile/
+vite-dev*.log
+website-final-check.png
+project-update-email-draft.md
